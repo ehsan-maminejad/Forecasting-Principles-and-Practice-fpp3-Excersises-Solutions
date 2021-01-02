@@ -90,17 +90,6 @@ aus_arrivals%>%
 aus_arrivals%>%
   gg_subseries(Arrivals)
 
-
-
-
-
-
-
-
-
-
-
-
 #-----Ex6----
 set.seed(12345) #select seed point for sample function(when you want the same sample nubmer...
 #you should choose the same seed number)
